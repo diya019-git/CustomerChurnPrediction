@@ -1,0 +1,12 @@
+[
+  "tenure",
+  "monthly_charges",
+  "total_charges",
+  "num_services",
+  "has_internet",
+  "has_phone",
+  "is_monthly_contract",
+  "cust_service_calls",
+  "has_complaints",
+  "is_senior"
+]

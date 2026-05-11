@@ -1,0 +1,11 @@
+feature,importance
+has_complaints,0.33120307
+is_monthly_contract,0.24102317
+has_internet,0.12022196
+has_phone,0.0789959
+monthly_charges,0.05122094
+tenure,0.043045092
+num_services,0.04028527
+cust_service_calls,0.036273453
+total_charges,0.030084101
+is_senior,0.027646976

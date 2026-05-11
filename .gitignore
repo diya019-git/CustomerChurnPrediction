@@ -11,13 +11,8 @@ __pycache__/
 .Python
 
 # Trained model artefacts (large binary files)
-models/*.pkl
-models/*.json
-models/*.csv
 
 # Dataset files (download separately — see DATASET.md)
-data/*.csv
-data/*.zip
 
 # Jupyter
 .ipynb_checkpoints/
